@@ -1,0 +1,11 @@
+{
+  "name": "Git Updater",
+  "author": "Quentingeorgel",
+  "flags": ["root"],
+  "api_version": 1,
+  "publish": {
+    "tags": ["updates", "utility"],
+    "description": "Met à jour des plugins Decky depuis des repos GitHub (releases ZIP).",
+    "image": "https://raw.githubusercontent.com/quentingeorgel/decky-gitupdater/main/icon.png"
+  }
+}

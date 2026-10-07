@@ -1,0 +1,29 @@
+{
+  "name": "decky-gitupdater",
+  "version": "0.1.0",
+  "description": "Decky plugin to update other plugins from GitHub releases",
+  "scripts": {
+    "build": "rollup -c",
+    "watch": "rollup -c -w"
+  },
+  "type": "module",
+  "dependencies": {
+    "@decky/api": "^1.1.2",
+    "@decky/ui": "^4.7.0",
+    "react-icons": "^4.12.0"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^25.0.0",
+    "@rollup/plugin-json": "^6.0.0",
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "@rollup/plugin-replace": "^5.0.5",
+    "@rollup/plugin-typescript": "^11.1.6",
+    "@types/react": "^18.2.55",
+    "@types/react-dom": "^18.2.19",
+    "rollup": "^4.9.6",
+    "tslib": "^2.6.2",
+    "typescript": "^5.3.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
