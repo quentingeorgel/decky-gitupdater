@@ -1,5 +1,5 @@
 {
-  "name": "Git Updater",
+  "name": "decky-gitupdater",
   "author": "Quentingeorgel",
   "flags": ["root"],
   "api_version": 1,
